@@ -1,0 +1,16 @@
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\bin\Debug\net7.0-windows\Labirintus.exe
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\bin\Debug\net7.0-windows\Labirintus.deps.json
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\bin\Debug\net7.0-windows\Labirintus.runtimeconfig.json
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\bin\Debug\net7.0-windows\Labirintus.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\bin\Debug\net7.0-windows\Labirintus.pdb
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.Form1.resources
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.csproj.GenerateResource.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.AssemblyInfoInputs.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.AssemblyInfo.cs
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.csproj.CoreCompileInputs.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\refint\Labirintus.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.pdb
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\Labirintus.genruntimeconfig.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\Labirintus\Labirintus\obj\Debug\net7.0-windows\ref\Labirintus.dll
