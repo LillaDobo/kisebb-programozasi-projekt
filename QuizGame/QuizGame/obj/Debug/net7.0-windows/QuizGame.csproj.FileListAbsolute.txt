@@ -1,0 +1,55 @@
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.exe
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\jatek.csv
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.deps.json
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.runtimeconfig.json
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.dll
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.AssemblyReference.cache
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.Form1.resources
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.QuestionUserControl.resources
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.dll
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\refint\QuizGame.dll
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\w1c4gq\Documents\QuizGame\QuizGame\obj\Debug\net7.0-windows\ref\QuizGame.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.exe
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\jatek.csv
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.deps.json
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.runtimeconfig.json
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.Form1.resources
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.QuestionUserControl.resources
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\refint\QuizGame.dll
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\Lilla\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\ref\QuizGame.dll
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.exe
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\jatek.csv
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.deps.json
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.runtimeconfig.json
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.dll
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\bin\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.Form1.resources
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.QuestionUserControl.resources
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.dll
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\refint\QuizGame.dll
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.pdb
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\doboh\OneDrive - Corvinus University of Budapest\2.félév\Software technológia\QuizGame\QuizGame\obj\Debug\net7.0-windows\ref\QuizGame.dll
